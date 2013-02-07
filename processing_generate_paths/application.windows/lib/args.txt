@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1024m
+GenerateTextPaths
+GenerateTextPaths.jar,core.jar
